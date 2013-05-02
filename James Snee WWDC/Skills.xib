@@ -100,9 +100,9 @@
 						<reference key="NSWindow"/>
 						<reference key="NSNextKeyView" ref="532148269"/>
 						<string key="NSReuseIdentifierKey">_NS:9</string>
-						<object class="NSColor" key="IBUIBackgroundColor" id="100950644">
-							<int key="NSColorSpace">1</int>
-							<bytes key="NSRGB">MCAwIDAAA</bytes>
+						<object class="NSColor" key="IBUIBackgroundColor">
+							<int key="NSColorSpace">2</int>
+							<bytes key="NSRGB">MC4xNTI5NDExODIzIDAuMTcyNTQ5MDI0MiAwLjE5MjE1Njg4MTEAA</bytes>
 						</object>
 						<bool key="IBUIOpaque">NO</bool>
 						<bool key="IBUIClipsSubviews">YES</bool>
@@ -133,9 +133,11 @@
 						<string key="NSFrame">{{20, 54}, {280, 474}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<reference key="NSWindow"/>
-						<reference key="NSNextKeyView"/>
 						<string key="NSReuseIdentifierKey">_NS:9</string>
-						<reference key="IBUIBackgroundColor" ref="100950644"/>
+						<object class="NSColor" key="IBUIBackgroundColor">
+							<int key="NSColorSpace">2</int>
+							<bytes key="NSRGB">MC4xNTI5NDExODIzIDAuMTcyNTQ5MDI0MiAwLjE5MjE1Njg4MTEAA</bytes>
+						</object>
 						<bool key="IBUIClipsSubviews">YES</bool>
 						<bool key="IBUIMultipleTouchEnabled">YES</bool>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
@@ -143,9 +145,9 @@
 						<object class="NSAttributedString" key="IBUIAttributedText">
 							<string type="base64-UTF8" key="NSString">UHJvZ3JhbW1pbmc6ClByb2ZpY2llbnQ6IE9iamVjdGl2ZS1DLCBDLCBKYXZhLCBQeXRob24KCkZhbWls
 aWFyOiBDKyssIFN5c3RlbVZlcmlsb2cKClN5c3RlbXM6Ck1hYyBPUyBYICYgaU9TIGRldmVsb3BtZW50
-LgpMaW51eCBrZXJuZWwgZGV2ZWxvcG1lbnQgJiAgYWRtaW5pc3RyYXRpb24uClhlbiAoVk0pIGFkbWlu
-aXN0cmF0aW9uLgoKSW50ZXJlc3RzOgpPUyBkZXNpZ24gJiBkZXZlbG9wbWVudC4KTW9iaWxlIGRldmlj
-ZSBlbmVyZ3kgYWNjb3VudGluZy4KTW9iaWxlIGFwcCBkZXZlbG9wbWVudC4</string>
+LgoKTGludXgga2VybmVsIGRldmVsb3BtZW50ICYgIGFkbWluaXN0cmF0aW9uLgoKWGVuIFNlcnZlciBh
+ZG1pbmlzdHJhdGlvbi4KCkludGVyZXN0czoKT1MgZGVzaWduICYgZGV2ZWxvcG1lbnQuCgpNb2JpbGUg
+ZGV2aWNlIGVuZXJneSBhY2NvdW50aW5nLgoKTW9iaWxlIGFwcCBkZXZlbG9wbWVudC4</string>
 							<array class="NSMutableArray" key="NSAttributes">
 								<dictionary>
 									<object class="NSColor" key="NSColor" id="29805614">
@@ -182,7 +184,7 @@ ZSBlbmVyZ3kgYWNjb3VudGluZy4KTW9iaWxlIGFwcCBkZXZlbG9wbWVudC4</string>
 								</dictionary>
 							</array>
 							<object class="NSMutableData" key="NSAttributeInfo">
-								<bytes key="NS.bytes">DQALAR4CCwEUAgkAGwIBAEYCCwBRAg</bytes>
+								<bytes key="NS.bytes">DQALAR4CCwEUAgkAHAIBAEkCCwBTAg</bytes>
 							</object>
 						</object>
 						<bool key="IBUIEditable">NO</bool>
@@ -196,7 +198,10 @@ ZSBlbmVyZ3kgYWNjb3VudGluZy4KTW9iaWxlIGFwcCBkZXZlbG9wbWVudC4</string>
 				<reference key="NSSuperview"/>
 				<reference key="NSWindow"/>
 				<reference key="NSNextKeyView" ref="188967159"/>
-				<reference key="IBUIBackgroundColor" ref="100950644"/>
+				<object class="NSColor" key="IBUIBackgroundColor">
+					<int key="NSColorSpace">2</int>
+					<bytes key="NSRGB">MC4xNTI5NDExODIzIDAuMTcyNTQ5MDI0MiAwLjE5MjE1Njg4MTEAA</bytes>
+				</object>
 				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
 				<object class="IBUIScreenMetrics" key="IBUISimulatedDestinationMetrics">
 					<string key="IBUISimulatedSizeMetricsClass">IBUIScreenMetrics</string>

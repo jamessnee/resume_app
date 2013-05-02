@@ -13,6 +13,7 @@
 @end
 
 @implementation Research
+@synthesize scroll,content;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -26,7 +27,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
+	
+	[[self scroll] addSubview:content];
+	[[self scroll] setContentSize:[[self content] frame].size];
 }
 
 -(IBAction)close:(id)sender{
