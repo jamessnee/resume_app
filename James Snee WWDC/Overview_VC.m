@@ -85,7 +85,7 @@ BOOL moved;
 					 completion:nil];
 	
 	[UIView animateWithDuration:0.5
-						  delay:0.20
+						  delay:0.10
 						options:UIViewAnimationOptionCurveEaseInOut
 					 animations:^{
 						 [twitter setAlpha:1.0f];
@@ -93,7 +93,7 @@ BOOL moved;
 					 completion:nil];
 	
 	[UIView animateWithDuration:0.5
-						  delay:0.30
+						  delay:0.20
 						options:UIViewAnimationOptionCurveEaseInOut
 					 animations:^{
 						 [github setAlpha:1.0f];
@@ -101,7 +101,7 @@ BOOL moved;
 					 completion:nil];
 	
 	[UIView animateWithDuration:0.5
-						  delay:0.40
+						  delay:0.30
 						options:UIViewAnimationOptionCurveEaseInOut
 					 animations:^{
 						 [linedin setAlpha:1.0f];
